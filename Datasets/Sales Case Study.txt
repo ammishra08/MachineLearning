@@ -1,0 +1,16 @@
+1. Identify Product with outliers sales in each quarter.
+
+2. Monthly Sales Performance By Each Territory
+
+3. Identify Consecutive Quarters of Sales Decline for Each Product
+
+4. Median Sales for Each Product Line in Every Quarter
+
+5. Percent Rank of Products Based on Gross Sales Amount in Each Quarter
+
+6. Categorize Product Category Sales Performance as 'High', 'Medium', or 'Low' Based on Percentiles
+
+7. Rank 5 Customers by Total Purchase in every Quarter of Each Year.
+
+8. Identify and Present the Trends of Sales Growth by Month. (Bar Graph)
+
